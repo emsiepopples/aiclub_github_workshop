@@ -3,3 +3,4 @@ AI Club Github Workshop
 
 Contributers
 Emma
+Rochelle
